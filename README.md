@@ -19,13 +19,12 @@ This project is a data analysis dashboard for solar farm data. It uses Streamlit
 1. Clone this repository.
 2. Navigate to the project directory.
 3. Install the necessary packages using pip:
-   ```
+
    pip install -r requirements.txt
-   ```
+
 4. Run the Streamlit app:
-   ```
+
    streamlit run app.py
-   ```
 
 ## Usage
 After running the Streamlit app, navigate to the local URL displayed in your terminal. Use the sidebar to select a country and the dashboard will display the corresponding EDA.
